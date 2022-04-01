@@ -8,8 +8,8 @@
 ## Installation
    To run this source code you will have to have Node.js, dotenv.js, express.js, mysql2.js, sequelize.js, and an API platform such as insomnia or postman.
    * Video: https://watch.screencastify.com/v/NG9AGbQzf5vQ67u7pyQY
-   * GitHub: https://christopherponzio.github.io/Employee-tracker
-   * Repository: https://github.com/ChristopherPonzio/Employee-tracker
+   * GitHub: https://christopherponzio.github.io/E-Commerce-Back-End/
+   * Repository: https://github.com/ChristopherPonzio/E-Commerce-Back-End
 
 ## Usage
     * To use this software you will need to add an env file with your password, username, and the database name of ecommerce_db
@@ -17,7 +17,8 @@
     * Once the database is uploaded you can use "npm run seeds" to add your stores specefic data from a seeds database.
     * Once your data base has been added you can use "npm start" to access the database and make changes as needed using your API software of choice. 
 
-![Demo Screenshot](/GET-CATAGORY.png)
+![Demo Screenshot](./assets//GET-CATAGORY.png)
+![Demo Screenshot](./assets/e-commerce-layout.png)
 
 ## Credits
     * Michelle Blackwell github: https://github/Mblackwellgca 
