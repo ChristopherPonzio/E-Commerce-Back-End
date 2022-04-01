@@ -7,7 +7,7 @@
 
 ## Installation
    To run this source code you will have to have Node.js, dotenv.js, express.js, mysql2.js, sequelize.js, and an API platform such as insomnia or postman.
-   * Video: https://watch.screencastify.com/v/NG9AGbQzf5vQ67u7pyQY
+   * Video: https://watch.screencastify.com/v/W4WaZdqgoJNQbEkhY1Gm
    * GitHub: https://christopherponzio.github.io/E-Commerce-Back-End/
    * Repository: https://github.com/ChristopherPonzio/E-Commerce-Back-End
 
